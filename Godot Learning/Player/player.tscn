@@ -284,6 +284,10 @@ animation = &"Idle"
 
 [node name="Camera2D" type="Camera2D" parent="."]
 zoom = Vector2(1.8, 1.8)
+limit_left = 0
+limit_top = 0
+limit_right = 9000
+limit_bottom = 9000
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 libraries = {
