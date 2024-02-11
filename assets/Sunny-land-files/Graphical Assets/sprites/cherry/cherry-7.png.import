@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkcpvhxywn6ap"
-path="res://.godot/imported/cherry-7.png-d5bfc959ddc2d93c891cba51e65870b5.ctex"
+path="res://.godot/imported/cherry-7.png-f1be3d0a683e14ee651e97f51bfd9487.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sunny-land-files/Graphical Assets/sprites/cherry/cherry-7.png"
-dest_files=["res://.godot/imported/cherry-7.png-d5bfc959ddc2d93c891cba51e65870b5.ctex"]
+source_file="res://assets/Sunny-land-files/Graphical Assets/sprites/cherry/cherry-7.png"
+dest_files=["res://.godot/imported/cherry-7.png-f1be3d0a683e14ee651e97f51bfd9487.ctex"]
 
 [params]
 

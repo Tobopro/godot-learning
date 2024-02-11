@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cddq240f52vpt"
-path="res://.godot/imported/opossum-1.png-82b763e4823c8b0ac26bff4f9099e5e9.ctex"
+path="res://.godot/imported/opossum-1.png-ceaf4746a5ccf0fdd0c61a7e63fe8ef8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sunny-land-files/Graphical Assets/sprites/opossum/opossum-1.png"
-dest_files=["res://.godot/imported/opossum-1.png-82b763e4823c8b0ac26bff4f9099e5e9.ctex"]
+source_file="res://assets/Sunny-land-files/Graphical Assets/sprites/opossum/opossum-1.png"
+dest_files=["res://.godot/imported/opossum-1.png-ceaf4746a5ccf0fdd0c61a7e63fe8ef8.ctex"]
 
 [params]
 

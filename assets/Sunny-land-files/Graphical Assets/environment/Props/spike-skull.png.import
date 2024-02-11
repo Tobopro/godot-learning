@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bryetgneliub6"
-path="res://.godot/imported/spike-skull.png-f3d7eb28722ee42e7578c15ff9e2c7f2.ctex"
+path="res://.godot/imported/spike-skull.png-d6bcdda7b7d09f267ee9d2981d4b3ec5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sunny-land-files/Graphical Assets/environment/Props/spike-skull.png"
-dest_files=["res://.godot/imported/spike-skull.png-f3d7eb28722ee42e7578c15ff9e2c7f2.ctex"]
+source_file="res://assets/Sunny-land-files/Graphical Assets/environment/Props/spike-skull.png"
+dest_files=["res://.godot/imported/spike-skull.png-d6bcdda7b7d09f267ee9d2981d4b3ec5.ctex"]
 
 [params]
 

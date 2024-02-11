@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvadcfpxrya48"
-path="res://.godot/imported/rock.png-3f98c36964bb77ba1f243409ad437065.ctex"
+path="res://.godot/imported/rock.png-ea35f69d6f666a19bc9f0b4b51536b18.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sunny-land-files/Graphical Assets/environment/Props/rock.png"
-dest_files=["res://.godot/imported/rock.png-3f98c36964bb77ba1f243409ad437065.ctex"]
+source_file="res://assets/Sunny-land-files/Graphical Assets/environment/Props/rock.png"
+dest_files=["res://.godot/imported/rock.png-ea35f69d6f666a19bc9f0b4b51536b18.ctex"]
 
 [params]
 

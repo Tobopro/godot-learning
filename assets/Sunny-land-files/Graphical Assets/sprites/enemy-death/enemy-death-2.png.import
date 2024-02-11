@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dm3q2rp06uhog"
-path="res://.godot/imported/enemy-death-2.png-1608fd76d1e4a88c0840e6a8e596387b.ctex"
+path="res://.godot/imported/enemy-death-2.png-55dd511309a412ca4a25a757f234b385.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sunny-land-files/Graphical Assets/sprites/enemy-death/enemy-death-2.png"
-dest_files=["res://.godot/imported/enemy-death-2.png-1608fd76d1e4a88c0840e6a8e596387b.ctex"]
+source_file="res://assets/Sunny-land-files/Graphical Assets/sprites/enemy-death/enemy-death-2.png"
+dest_files=["res://.godot/imported/enemy-death-2.png-55dd511309a412ca4a25a757f234b385.ctex"]
 
 [params]
 

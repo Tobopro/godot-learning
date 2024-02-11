@@ -1,0 +1,86 @@
+[gd_scene load_steps=11 format=3 uid="uid://dkrspmxeo2rgb"]
+
+[ext_resource type="Texture2D" uid="uid://eooik6b26nbq" path="res://Sunny-land-files/assets-perso/racoon-sprite.png" id="1_nkkqv"]
+[ext_resource type="Script" path="res://AnimatedSprite2D.gd" id="2_qe6vm"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_bcmcf"]
+atlas = ExtResource("1_nkkqv")
+region = Rect2(247, 15, 20, 53)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ie13v"]
+atlas = ExtResource("1_nkkqv")
+region = Rect2(309, 14, 19, 54)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_b4hdn"]
+atlas = ExtResource("1_nkkqv")
+region = Rect2(328, 14, 19, 54)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_a0fqs"]
+atlas = ExtResource("1_nkkqv")
+region = Rect2(347, 14, 19, 54)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_p0mje"]
+atlas = ExtResource("1_nkkqv")
+region = Rect2(269, 14, 19, 54)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_4pasy"]
+atlas = ExtResource("1_nkkqv")
+region = Rect2(288, 14, 19, 54)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_fy5y4"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bcmcf")
+}],
+"loop": true,
+"name": &"Idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ie13v")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_b4hdn")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_a0fqs")
+}],
+"loop": true,
+"name": &"Idle-back",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_p0mje")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_4pasy")
+}],
+"loop": true,
+"name": &"Walk",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"Walk-reverse",
+"speed": 5.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_3c0we"]
+size = Vector2(12, 20)
+
+[node name="Sprite-perso" type="CharacterBody2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(0, -2)
+scale = Vector2(0.6, 0.6)
+sprite_frames = SubResource("SpriteFrames_fy5y4")
+animation = &"Walk"
+frame_progress = 0.102676
+script = ExtResource("2_qe6vm")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-1, 0)
+shape = SubResource("RectangleShape2D_3c0we")

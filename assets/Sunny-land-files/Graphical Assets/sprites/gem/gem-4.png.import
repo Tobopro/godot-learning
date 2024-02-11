@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bja28c0187va2"
-path="res://.godot/imported/gem-4.png-ffc5dc1c69d1842526835ca67a084d72.ctex"
+path="res://.godot/imported/gem-4.png-b494ea4e1cc232f39073fd0cf418de42.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sunny-land-files/Graphical Assets/sprites/gem/gem-4.png"
-dest_files=["res://.godot/imported/gem-4.png-ffc5dc1c69d1842526835ca67a084d72.ctex"]
+source_file="res://assets/Sunny-land-files/Graphical Assets/sprites/gem/gem-4.png"
+dest_files=["res://.godot/imported/gem-4.png-b494ea4e1cc232f39073fd0cf418de42.ctex"]
 
 [params]
 

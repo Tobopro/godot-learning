@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b72684caqck2t"
-path="res://.godot/imported/pine.png-1d9e2d3a708fefef9d01ec2a757d6283.ctex"
+path="res://.godot/imported/pine.png-1d2fad6b8e776f32167535904586555a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sunny-land-files/Graphical Assets/environment/Props/pine.png"
-dest_files=["res://.godot/imported/pine.png-1d9e2d3a708fefef9d01ec2a757d6283.ctex"]
+source_file="res://assets/Sunny-land-files/Graphical Assets/environment/Props/pine.png"
+dest_files=["res://.godot/imported/pine.png-1d2fad6b8e776f32167535904586555a.ctex"]
 
 [params]
 
